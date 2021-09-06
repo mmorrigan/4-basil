@@ -1,0 +1,150 @@
+body {
+    background-image: url(https://64.media.tumblr.com/aedf5f2199582547a38acf2a3ece9a88/f047f81498f122fd-59/s400x600/197281485dc99421b3beb43fd57ed418b00a53e8.gifv);
+    overflow-x: hidden;
+    background-size: cover;
+    font-family: sans-serif;
+    text-transform: lowercase;
+}
+
+.avatar {
+    border: solid;
+    border-width: 1px;
+    border-color: #ffffff00;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+
+img {
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: auto;
+    image-orientation: from-image;
+}
+
+
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/cursors/cur-9/cur269.cur), auto !important;} /* End https://www.cursors-4u.com */
+
+.fixed {
+    width: 850px;
+    background-image: url(https://i2.glitter-graphics.org/pub/590/590942t6xxcct7g8.jpg);
+    border-style: none;
+    border-width: 1px;
+    border-color: #ffffff;
+    margin: auto;
+    margin-bottom: 8px;
+    height: auto;
+    position: relative;
+    overflow: true;
+    overflow-x: hidden;
+    border-radius: 10px;
+}
+
+.navi {
+    background-color: #4b5916;
+}
+
+.name {
+color: #4b5916;
+text-shadow: 0 0 10px;
+
+}
+
+u {
+    text-decoration: none;
+}
+
+.commentform {
+    text-align: center;
+    border: dotted;
+    border-width: 2px;
+    border-color: #ffffff00;
+    height: 290px;
+    width: 44%;
+    float: left;
+    margin-top: 4px;
+    overflow: true;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.about {
+    text-align: center;
+    border: dotted;
+    border-width: 2px;
+    border-color: #ffffff00;
+    height: 260px;
+    width: 70%;
+    float: right;
+    margin-top: 4px;
+    overflow: true;
+    overflow-x: hidden;
+}
+
+.status {
+    text-align: center;
+    border: ridge;
+    border-width: 2px;
+    border-color: #ffffff;
+    height: 260px;
+    width: 28%;
+    float: left;
+    margin-top: 4px;
+    overflow: true;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-transform: uppercase;
+}
+
+.blogs {
+    border: dotted;
+    border-width: 2px;
+    border-color: #ffffff00;
+    width: 49%;
+    text-align: center;
+    height: 400px;
+    padding-bottom: 20px;
+    float: right;
+    overflow: true;
+    overflow-x: hidden;
+}
+
+.commentbox {
+    text-align: center;
+    border: dotted;
+    border-width: 2px;
+    border-color: #ffffff00;
+    height: 290px;
+    width: 54%;
+    float: right;
+    margin-top: 4px;
+    overflow: true;
+    overflow-x: hidden;
+}
+
+.uname {
+    border: dotted;
+    border-width: 2px;
+    border-color: #ffffff00;
+    width: 49%;
+    height: 400px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+}
+
+.comment {
+    border: dashed;
+    border-color: #ffffff00;
+    border-width: 1px;
+    margin-left: 8px;
+    text-align: left;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    position: relative;
+    height: auto%;
+    position: relative;
+    overflow: extend;
+    overflow-x: hidden;
+    text-transform: none;
+}
